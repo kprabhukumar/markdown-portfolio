@@ -1,10 +1,1 @@
-a list of my favorite things :
-* cates
-* dogs
-* phones
-*  pens
- 
- in order ,this is how much i love each of my flavorite ice cream:
-1. chocolate
-2. rocky road
-3. vanilla
+i like to **code** and i like to_live stream_and if i am **coding** on a live stream then i am live coding
